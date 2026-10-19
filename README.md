@@ -80,7 +80,7 @@ Both notebooks were developed in Google Colab and mount Google Drive to access d
 
 ---
 
-## 🎯 Summary
+##  Summary
 
 * **Assignment 2** demonstrates that distance metric choice matters for sparse text data, and that initialization strategy (K-Means++ vs. random) matters for highly sparse, uneven datasets like Enron.
 * **Assignment 3** demonstrates that clustering-based sample selection for labeling can substantially reduce labeling cost while approaching fully-labeled accuracy, across both a neural network (MLP) and a classical classifier (SVM).
